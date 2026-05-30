@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+plotly
+supabase
+python-dotenv
+sqlalchemy
+psycopg2-binary
